@@ -1,0 +1,4 @@
+dependencies {
+  // add the following dependecy on you app level gradle file.
+  implementation "androidx.navigation:navigation-compose:2.4.0-alpha10"
+}
